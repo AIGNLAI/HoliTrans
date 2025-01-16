@@ -8,7 +8,7 @@ import torch
 
 from utils.data_manager import DataManager
 from utils.toolkit import count_parameters
-from UOC import Learner
+from HoliTrans import Learner
 
 def train(args):
     seed_list = copy.deepcopy(args["seed"])
