@@ -1,4 +1,4 @@
-# Exploring Open-world Continual Learning with Knowns-Unknowns Knowledge Transfer
+# Knowns-Unknowns Knowledge Transfer for Open-world Continual Learning
 
 ## Environment
 
