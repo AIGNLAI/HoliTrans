@@ -1,4 +1,4 @@
-# Knowns-Unknowns Knowledge Transfer for Open-world Continual Learning
+# Improving Knowns-Unknowns Knowledge Transfer for Open-world Continual Learning
 
 ## Environment
 
